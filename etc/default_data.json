@@ -2910,6 +2910,18 @@
             "emails": ["breton@cynicmansion.ru", "bbobrov@mirantis.com", "b.bobrov@corp.mail.ru", "bbobrov@suse.com"]
         },
         {
+            "launchpad_id": "bbrowning",
+            "github_id": "bbrowning",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ben Browning",
+            "emails": ["ben324@gmail.com", "bbrownin@redhat.com"]
+        },
+        {
             "launchpad_id": "bbwang5827",
             "companies": [
                 {
